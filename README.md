@@ -11,6 +11,9 @@
 ## 🏆 GɪᴛHᴜʙ Tʀᴏᴘʜɪᴇs
 ![](https://github-profile-trophy.vercel.app/?username=sridhark01&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
+## Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{Sridhark01}/count.svg)
+
 ### ✍️ Rᴀɴᴅᴏᴍ Dᴇᴠ Qᴜᴏᴛᴇ
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -26,8 +29,3 @@
 </div>
 
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
-<p align="left">
-<b>Tʜᴀɴᴋʏᴏᴜ Fᴏʀ Vɪsɪᴛɪɴɢ Mʏ Pʀᴏғɪʟᴇ 😊</b>
-</p>
-
