@@ -6,7 +6,6 @@
 # 📊 GɪᴛHᴜʙ Sᴛᴀᴛs:
 ![](https://github-readme-stats.vercel.app/api?username=sridhark01&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sridhark01&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sridhark01&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GɪᴛHᴜʙ Tʀᴏᴘʜɪᴇs
 ![](https://github-profile-trophy.vercel.app/?username=sridhark01&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
