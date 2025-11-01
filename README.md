@@ -7,6 +7,14 @@
 ![](https://github-readme-stats.vercel.app/api?username=sridhark01&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sridhark01&theme=highcontrast&hide_border=false)<br/>
 
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat\&logo=github\&logoColor=white)
+
+
+
 ## 🏆 GɪᴛHᴜʙ Tʀᴏᴘʜɪᴇs
 ![](https://github-profile-trophy.vercel.app/?username=sridhark01&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
