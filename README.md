@@ -16,7 +16,7 @@
 
 
 ## 🏆 GɪᴛHᴜʙ Tʀᴏᴘʜɪᴇs
-[![trophy](https://github-profile-trophy.vercel.app/?username=sridhark01&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=sridhark01&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ## Profile views counter
 ![Visitor Count](https://komarev.com/ghpvc/?username=sridhark01&color=blue&base=25000)
