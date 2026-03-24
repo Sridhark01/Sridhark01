@@ -19,7 +19,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=sridhark01&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ## Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{Sridhark01}/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=sridhark01&color=blue)
 
 ### ✍️ Rᴀɴᴅᴏᴍ Dᴇᴠ Qᴜᴏᴛᴇ
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
