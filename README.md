@@ -28,7 +28,7 @@
 
 # ☎️ Cᴏɴᴛᴀᴄᴛ ᴍᴇ
 <p align="left">
-<a href="https://telegram.me/maharaja_91"><img alt="Telegram" src="https://img.shields.io/badge/sridhark01-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://telegram.me/maharaja_91"><img alt="Telegram" src="https://img.shields.io/badge/sridhar-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="">
     &nbsp;<img src="https://img.shields.io/badge/bullet-updates-blue?style=for-the-badge&logo=telegram" width="200" height="28">&nbsp;
   </a>
